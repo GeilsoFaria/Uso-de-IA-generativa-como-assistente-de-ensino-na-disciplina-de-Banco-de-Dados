@@ -1,0 +1,111 @@
+----Formulário de Participação----
+Consentimento informado para o experimento:
+
+Você está sendo convidado a participar deste estudo de pesquisa, que é chamado de
+Uso de IA Generativa como assistente de ensino na disciplina de Banco de Dados. Este
+estudo está sendo conduzido por Geilso Faria Rodrigues da Silva e Rodrigo Quinhone
+Veiga Durais que são alunos de graduação em Engenharia de Computação na
+Universidade de Federal da Grande Dourados sob orientação da Profª. Drª. Silvana Morita
+Melo, professora na Universidade Federal da Grande Dourados.
+
+Sobre o que é esse estudo?
+
+Este estudo está sendo realizado para avaliar a utilização de ferramentas baseadas em
+IA Generativa (como o ChatGPT) como tutores de ensino-aprendizagem na disciplina de
+Banco de Dados.
+
+Por que este estudo é importante? Que bom os resultados terão?
+
+Este estudo fornecerá uma lista de benefícios e dificuldades enfrentadas ao usar agente
+conversacionais baseada em IA generativa como um apoio à disciplinas relacionadas ao
+ensino de computação, mais especificamente no contexto de banco de dados. A fim de
+guiar os docentes sobre como abordar essas novas tecnologias no contexto de sala de
+aula, indicando quais os benefícios aos alunos e possíveis riscos que devem ser levados
+em consideração. Esperamos reduzir a barreira entre as metodologias tradicionais de
+ensino e o uso de novas práticas baseadas em IA no ambiente educacional.
+
+Por que me pediram para participar desse estudo?
+
+Você foi solicitado a estar neste estudo porque você possui conhecimento em alguma
+das áreas abrangidas por este estudo (Algoritmos, Programação e Banco de Dados) e
+pode fornecer dados importantes para a validação de nossa pesquisa.
+Fica exposto também que o participante, caso se sinta prejudicado em algum momento,
+pode abandonar imediatamente o estudo, sem dano algum relacionado a disciplina.
+
+Eu li este formulário de consentimento. Eu entendo o que eu o que devo fazer
+
+1. Você aceita participar desse estudo?
+ * Sim
+ * Não
+
+
+----Caracterização dos Participantes----
+
+2. Nome Completo
+_______________
+
+3. RGA
+_______________
+
+4. Gênero
+
+ *Masculino
+ *Feminino
+ *Prefiro não opinar
+
+5. Curso  
+
+ *Engenharia de Computação
+
+6. Semestre
+
+ *2º Semestre
+ *3º Semestre
+ *4º Semestre
+ *5º Semestre
+ *6º Semestre
+ *7º Semestre
+ *8º Semestre
+ *9º Semestre
+ *10º Semestre
+
+7. Voce já cursou essa disciplina antes? 
+
+ * Sim
+ * Não
+
+8. Possui saber profissional em Banco de Dados?
+
+ * Sim
+ * Não
+
+----Conhecimento preliminar dos participantes sobre IAs Generativas----
+
+9. Com que frequencia você usa IAs generativas?
+
+ *Nunca
+ *Raramente
+ *Às vezes
+ *Frequentemente
+ *Sempre
+
+10. Você já usou ou usa IAs generativas? 
+
+ * Sim
+ * Não
+
+11. Apoiam o ensino em Computação
+
+ * Discordo Totalmente
+ * Discordo
+ * Não concordo nem discordo
+ * Concordo
+ * Concordo Totalmente
+
+12. Apoiam o ensino em Banco de Dados
+
+ * Discordo Totalmente
+ * Discordo
+ * Não concordo nem discordo
+ * Concordo
+ * Concordo Totalmente

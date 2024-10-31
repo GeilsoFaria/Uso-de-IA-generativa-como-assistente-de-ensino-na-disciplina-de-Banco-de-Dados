@@ -1,0 +1,219 @@
+----Esforço Mental - NASA-TLX----
+
+"(Q1) - Tive os recursos necessários para completar a atividade de maneira eficiente."
+ 
+ *Discordo Totalmente
+ *Discordo
+ *Não concordo nem discordo
+ *Concordo 
+ *Concordo Totalmente  
+
+(Q2) - Não foi necessário muito esforço mental ou perceptual durante a tarefa.
+ 
+ *Discordo Totalmente
+ *Discordo
+ *Não concordo nem discordo
+ *Concordo 
+ *Concordo Totalmente  
+
+----Intenção continuada - UTAUT----
+ 
+(Q3) - Pretendo continuar interagindo com as IAs generativas no futuro.
+
+ *Discordo Totalmente
+ *Discordo
+ *Não concordo nem discordo
+ *Concordo 
+ *Concordo Totalmente 
+
+"(Q4) - Planejo usar IAs generativas para resolver tarefas semelhantes." 
+
+ *Discordo Totalmente
+ *Discordo
+ *Não concordo nem discordo
+ *Concordo 
+ *Concordo Totalmente
+
+"(Q5) - Planejo usar IAs Generativas para aprender sobre conceitos de bancos de dados."
+
+ *Discordo Totalmente
+ *Discordo
+ *Não concordo nem discordo
+ *Concordo 
+ *Concordo Totalmente
+
+----Percepção de Utilidade - TAM----
+
+"(Q6) - A IA generativa comunicou suas capacidades de forma clara."
+
+ *Discordo Totalmente
+ *Discordo
+ *Não concordo nem discordo
+ *Concordo 
+ *Concordo Totalmente
+
+"(Q7) - Sinto que a IA generativa me possibilitou melhor domínio e compreensão da atividade."
+
+ *Discordo Totalmente
+ *Discordo
+ *Não concordo nem discordo
+ *Concordo 
+ *Concordo Totalmente
+
+"(Q8) - Tenho uma visão positiva da IA generativa quanto sua utilidade e capacidade de facilitar tarefas."
+
+ *Discordo Totalmente
+ *Discordo
+ *Não concordo nem discordo
+ *Concordo 
+ *Concordo Totalmente
+
+"(Q9) - Eu acredito que a IA generativa forneceu resultados úteis para mim."
+
+ *Discordo Totalmente
+ *Discordo
+ *Não concordo nem discordo
+ *Concordo 
+ *Concordo Totalmente
+
+----Facilidade de Uso - TAM----
+
+"(Q10) - Senti que tinha o controle sobre a interação com a IA generativa."
+
+ *Discordo Totalmente
+ *Discordo
+ *Não concordo nem discordo
+ *Concordo 
+ *Concordo Totalmente
+
+"(Q11) - Foi fácil interagir com a IA generativa."
+
+ *Discordo Totalmente
+ *Discordo
+ *Não concordo nem discordo
+ *Concordo 
+ *Concordo Totalmente
+
+"(Q12) - Foi fácil obter uma explicação por trás da resposta gerada."
+
+ *Discordo Totalmente
+ *Discordo
+ *Não concordo nem discordo
+ *Concordo 
+ *Concordo Totalmente
+
+"(Q13) - Foi fácil descartar as respostas irrelevantes da IA Generativa."
+
+ *Discordo Totalmente
+ *Discordo
+ *Não concordo nem discordo
+ *Concordo 
+ *Concordo Totalmente
+
+"(Q14) - A IA Generativa deixou claro sobre sua frequência de erros em respostas."
+
+ *Discordo Totalmente
+ *Discordo
+ *Não concordo nem discordo
+ *Concordo 
+ *Concordo Totalmente
+
+"(Q15) - A dificuldade dos trabalhos práticos foi adequada."
+
+ *Discordo Totalmente
+ *Discordo
+ *Não concordo nem discordo
+ *Concordo 
+ *Concordo Totalmente
+
+----Frustração - UTAUT----
+
+"(Q16) - Eu me senti seguro, encorajado, calmo, relaxado e à vontade durante a tarefa."
+
+ *Discordo Totalmente
+ *Discordo
+ *Não concordo nem discordo
+ *Concordo 
+ *Concordo Totalmente
+
+----Pressão por tempo----
+
+"(Q17) - As tarefas ocorreram em um ritmo calmo e controlado, sem gerar pressão de tempo."
+
+ *Discordo Totalmente
+ *Discordo
+ *Não concordo nem discordo
+ *Concordo 
+ *Concordo Totalmente
+
+
+----Influência social - UTAUT----
+
+"(Q18) - Percebo que outras pessoas importantes da área estão usando e recomendando o uso de IAs generativas."
+
+ *Discordo Totalmente
+ *Discordo
+ *Não concordo nem discordo
+ *Concordo 
+ *Concordo Totalmente
+
+----Autoeficácia - UTAUT----
+
+"(Q19) - No geral, eu consegui resolver todos os exercícios propostos na lista de exercícios."
+
+ *Discordo Totalmente
+ *Discordo
+ *Não concordo nem discordo
+ *Concordo 
+ *Concordo Totalmente
+
+"(Q20) - Não senti dificuldade em visualizar os resultados e identificar quais tabelas seriam necessárias."
+
+ *Discordo Totalmente
+ *Discordo
+ *Não concordo nem discordo
+ *Concordo 
+ *Concordo Totalmente
+
+"(Q21) - Compreendo bem a solução gerada pela IA generativa."
+
+ *Discordo Totalmente
+ *Discordo
+ *Não concordo nem discordo
+ *Concordo 
+ *Concordo Totalmente
+
+----Satisfação - UTAUT----
+
+"(Q22) - Estou satisfeito(a) com o desempenho da IA generativa."
+
+ *Discordo Totalmente
+ *Discordo
+ *Não concordo nem discordo
+ *Concordo 
+ *Concordo Totalmente
+
+"(Q23) - As respostas foram adaptadas a minha experiência durante a atividade."
+
+ *Discordo Totalmente
+ *Discordo
+ *Não concordo nem discordo
+ *Concordo 
+ *Concordo Totalmente
+
+"(Q24) - Recomendaria IAs generativas para um amigo que precisa de ajuda com conceitos de Banco de Dados."
+
+ *Discordo Totalmente
+ *Discordo
+ *Não concordo nem discordo
+ *Concordo 
+ *Concordo Totalmente
+
+
+
+
+
+
+
+
+
