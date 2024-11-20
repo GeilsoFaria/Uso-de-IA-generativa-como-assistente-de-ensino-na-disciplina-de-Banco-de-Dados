@@ -1,0 +1,13 @@
+CI = Critério de Inclusão;
+CE = Critério de Exclusão.
+
+Critérios de Inclusão:
+
+CI-1: O estudo avalia a utilização de IAs generativas em qualquer domínio do ensino de Banco de Dados;
+CI-2: Se trata de um estudo empírico e avalia a utilização de IAs generativas no ensino de Banco de Dados.
+
+Critérios de Exclusão: 
+
+CE-1: O estudo utiliza IAs generativas em algum domínio que não seja de Banco de Dados;
+CE-2: O estudo trata apenas do ensino de Banco de Dados, sem a utilização de IAs generativas;
+CE-3: O estudo utiliza IAs generativas em algum domínio de Banco de Dados, porém sem aplicação educacional.
